@@ -7,7 +7,7 @@
 * Prétraitement d'images et Extraction de features (SIFT/SURF/ORB)
 * Classification non supervisée
 * Construction d'un réseau de neurone
-* Transfer learning sur modèle imagenet
+* Transfer learning sur modèle VGG16
 * Mise en place d'une application de visualition dynamique
 
 ## Compétences évaluées
